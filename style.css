@@ -1,0 +1,32 @@
+body {
+  background-color: rgb(0, 36, 81);
+}
+
+h1 {
+  text-align: center;
+  background-color: #63676e;
+}
+
+body {
+  color: seashell;
+}
+
+article {
+  display: flex;
+  background-color: rgb(0, 36, 81);
+  color: seashell;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.centered {
+  text-align: center;
+}
+
+p + p {
+  text-indent: 1ch;
+}
+
+.info1-wrapper {
+  background-color: rgb(0, 36, 81);
+}
